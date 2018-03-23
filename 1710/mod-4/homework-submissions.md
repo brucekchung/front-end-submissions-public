@@ -54,7 +54,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Node Server Tutorial](https://github.com/brucekchung/node-intro) - complete
 * [Express Tutorial](https://github.com/brucekchung/express-intro) - complete 4 exercises
 * [Promise Practice Exercises](https://github.com/brucekchung/promise-practice) - complete
-* [Palette Picker PWA]()
+* [Palette Picker PWA](https://github.com/brucekchung/palette-picker-pwa) - complete
 * [Websockets Tutorial]()
 * [House of Vars Blog Post]()
 * [Pattern Party Repo]()
